@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awa's Website</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#myhome">My Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#myservices">My Services</a></li>
+                <li><a href="#contacts">Contacts</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="myhome">
+            <h1>Welcome to My Home Page about criminal cases</h1>
+            <p>This is the home section of the webpage.</p>
+        </section>
+
+        <section id="about">
+            <h3>About Me</h3>
+            <p>This section contains information about me and my expertise in criminal cases.</p>
+        </section>
+
+        <section id="myservices">
+            <h4>My Services</h4>
+            <p>Details about the services and suggestions I offer can be found here.</p>
+        </section>
+
+        <section id="contacts">
+            <h5>Contact Me</h5>
+            <p>You can reach me through the contact information provided in this section. <br><i>Phone:</i> +221778877654</p>
+        </section>
+    </main>
+    <iframe width="560" height="315" src="https://youtu.be/WnDJTuYE9Uw?si=WNU4r9vO4i_VyThW" 
+            title="Awa's Video" frameborder="0" allowfullscreen>
+    </iframe>
+
+    <footer>
+        <p>&copy; 2024 Awa's Website</p>
+    </footer>
+    
+</body>
+</html>
