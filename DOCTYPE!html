@@ -23,17 +23,17 @@
         </section>
 
         <section id="about">
-            <h3>About Me</h3>
+            <h2>About Me</h2>
             <p>This section contains information about me and my expertise in criminal cases.</p>
         </section>
 
         <section id="myservices">
-            <h4>My Services</h4>
+            <h2>My Services</h2>
             <p>Details about the services and suggestions I offer can be found here.</p>
         </section>
 
         <section id="contacts">
-            <h5>Contact Me</h5>
+            <h2>Contact Me</h2>
             <p>You can reach me through the contact information provided in this section. <br><i>Phone:</i> +221778877654</p>
         </section>
     </main>
